@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="show_info">展示文字的区域</string>
+    <string name="button_clickme">Click Me</string>
 </resources>

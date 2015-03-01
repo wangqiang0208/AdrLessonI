@@ -19,6 +19,7 @@ public class MainActivity extends ActionBarActivity {
         final TextView textView3 = (TextView) findViewById(R.id.TextView3);
         Button button = (Button) findViewById(R.id.Button1);
 
+        //添加单击事件
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
